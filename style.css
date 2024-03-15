@@ -13,7 +13,7 @@ html,body{
 #main{
     height: 100%;
     width: 100%;
-    background-color: #ffffff4b;
+    background-color: #ededed;
     display: grid;
     grid-template-columns: 25% 25% 50%;
     grid-template-rows: 26% 56% 18%;
